@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CardGame/static/css/main.5a52e24b.css",
+    "main.js": "/CardGame/static/js/main.dfaf80e9.js",
+    "static/js/453.2c89c1e2.chunk.js": "/CardGame/static/js/453.2c89c1e2.chunk.js",
+    "index.html": "/CardGame/index.html",
+    "main.5a52e24b.css.map": "/CardGame/static/css/main.5a52e24b.css.map",
+    "main.dfaf80e9.js.map": "/CardGame/static/js/main.dfaf80e9.js.map",
+    "453.2c89c1e2.chunk.js.map": "/CardGame/static/js/453.2c89c1e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a52e24b.css",
+    "static/js/main.dfaf80e9.js"
+  ]
+}
